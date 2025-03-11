@@ -2,7 +2,7 @@ import requests
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup as bs
 
-url = 'http://127.0.0.1:5500/'
+url = 'https://wmt-kirtand.github.io/Git_task/'
 
 r = requests.get(url)
 
